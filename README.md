@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
   <a href="https://github.com/n25a?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/n25a?color=green&logo=github">
   </a>
 </p>
 
