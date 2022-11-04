@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="n25a-title">:wave: Hello there! I'm Nima Mashhadi</h1>
+<h3 align="left">I am a Software Engineer, I think</h3>
 
 <p align="left">
   <a href="https://github.com/n25a/n25a">
@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/n25a/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;I'm currently working at **[Snapp](https://snapp.ir/)**
+- :seedling: &nbsp; **Golang** and **Python** are my main languages
+- :speech_balloon: &nbsp;I like to talk about **Open Source**
+- :mailbox: &nbsp;Ask me anything on my **[Email](n.twenty.five.a@gmail.com)**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/nimashadix/)**
 
 <br>
 
