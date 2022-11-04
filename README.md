@@ -11,7 +11,6 @@
 </p>
 
 
-
 - :office: &nbsp;I'm currently working at **[Snapp](https://snapp.ir/)**
 - :seedling: &nbsp; **Golang** and **Python** are my main languages
 - :speech_balloon: &nbsp;I like to talk about **Open Source**
@@ -19,9 +18,10 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/nimashadix/)**
 
 
-
 # 💫 About Me
-i'm sdjhbsdjhbfswdad
+I'm boardgames geek and coffee lover. I'm a software engineer who is passionate about making open-source more accessible, 
+creating technology to elevate people, and building community. Most of my time is spent working on coding, reading,
+learning, and listen to music. Also, I'm a big fan of start-ups, I'm always looking for new ideas to work on.
 
 
 ## 🌐 Socials
@@ -56,13 +56,7 @@ i'm sdjhbsdjhbfswdad
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=n25a&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=n25a&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n25a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🎧 Spotify Playing
-
-![spotify-github-profile](/img/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
