@@ -20,7 +20,7 @@
 
 # 💫 About Me
 I'm boardgames geek and coffee lover. I'm a software engineer who is passionate about making open-source more accessible, 
-creating technology to elevate people, and building community. Most of my time is spent working on coding, reading,
+creating technology to elevate people, and building community. Most of my time is spent on coding, reading,
 learning, and listen to music. Also, I'm a big fan of start-ups, I'm always looking for new ideas to work on.
 
 
