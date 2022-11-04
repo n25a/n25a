@@ -14,7 +14,7 @@
 - :office: &nbsp;I'm currently working at **[Snapp](https://snapp.ir/)**
 - :seedling: &nbsp; **Golang** and **Python** are my main languages
 - :speech_balloon: &nbsp;I like to talk about **Open Source**
-- :mailbox: &nbsp;Ask me anything on my **[Email](n.twenty.five.a@gmail.com)**
+- :mailbox: &nbsp;Ask me anything on my **[Email](mailto:n.twenty.five.a@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/nimashadix/)**
 
 
