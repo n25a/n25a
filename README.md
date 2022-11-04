@@ -32,6 +32,9 @@ learning, and listening to music. I'm also a big fan of start-ups, I'm always lo
 
 # 💻 Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Gorilla](https://img.shields.io/badge/Gorilla-000000.svg?style=for-the-badge)
+![Gin](https://img.shields.io/badge/Gin-%23009639.svg?style=for-the-badge)
+![Echo](https://img.shields.io/badge/Echo-22ADF6.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -60,9 +63,6 @@ learning, and listening to music. I'm also a big fan of start-ups, I'm always lo
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Gorilla](https://img.shields.io/badge/Gorilla-000000.svg?style=for-the-badge)
-![Gin](https://img.shields.io/badge/Gin-000000.svg?style=for-the-badge)
-![Echo](https://img.shields.io/badge/Echo-000000.svg?style=for-the-badge)
 
 
 # 📊 GitHub Stats
