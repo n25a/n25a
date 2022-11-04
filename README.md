@@ -61,6 +61,8 @@ learning, and listening to music. I'm also a big fan of start-ups, I'm always lo
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Gorilla](https://img.shields.io/badge/Gorilla-000000.svg?style=for-the-badge)
+![Gin](https://img.shields.io/badge/Gin-000000.svg?style=for-the-badge)
+![Echo](https://img.shields.io/badge/Echo-000000.svg?style=for-the-badge)
 
 
 # 📊 GitHub Stats
