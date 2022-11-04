@@ -57,6 +57,10 @@ learning, and listening to music. I'm also a big fan of start-ups, I'm always lo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![POP OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Gorilla](https://img.shields.io/badge/Gorilla-000000.svg?style=for-the-badge)
 
 
 # 📊 GitHub Stats
